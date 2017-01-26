@@ -1,7 +1,7 @@
 object FormMain: TFormMain
-  Left = 382
+  Left = 252
   Height = 800
-  Top = 234
+  Top = 196
   Width = 1000
   Caption = 'Coder vs Random'
   LCLVersion = '1.6.0.4'
