@@ -5,7 +5,7 @@ unit cvr_main;
 interface
 
 uses
-  Classes, SysUtils, FileUtil, Forms, Controls, Graphics, Dialogs;
+  Classes, SysUtils, FileUtil, Forms, Controls, Graphics, Dialogs, cvr_game;
 
 type
   TFormMain = class(TForm)
@@ -17,6 +17,7 @@ type
 
 var
   FormMain: TFormMain;
+  Game: TGame;
 
 implementation
 
